@@ -19,6 +19,8 @@ public class parrot {
 			choosedNum = choice.nextInt();
 		}
 		System.out.println("대화를 종료합니다.");
+		System.out.println();
+		
 	}
 	
 }
